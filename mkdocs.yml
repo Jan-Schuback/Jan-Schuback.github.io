@@ -18,6 +18,8 @@ nav:
   - Start: index.md
   - Anleitung: instructions.md
   - Downloads: downloads.md
+  - Community:
+      - GitHub Discussions: https://github.com/DEINNAME/DEINREPO/discussions
 
 markdown_extensions:
   - admonition
