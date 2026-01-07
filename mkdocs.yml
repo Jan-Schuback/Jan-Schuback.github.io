@@ -16,14 +16,7 @@ theme:
 
 nav:
   - Start: index.md
-  - Sicherheit: sicherheit.md
-  - Materialliste: materialliste.md
-  - Werkzeuge: werkzeuge.md
-  - Bauanleitung: bauanleitung.md
-  - Tests & Wartung: tests-wartung.md
-  - Community Builds: community-builds.md
-  - Downloads:
-      - docs/downloads: downloads/
+  - Anleitung: instructions.md
 
 markdown_extensions:
   - admonition
