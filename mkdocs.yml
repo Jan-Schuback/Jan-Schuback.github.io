@@ -1,8 +1,8 @@
 site_name: Bambusrollstuhl – Bauanleitung
 site_description: Open-Source Bauanleitung & Community-Builds
-site_url: https://DEINNAME.github.io/DEINREPO/   # bei Project Pages
+site_url: https://Jan-Schubak.github.io/   # bei Project Pages
 repo_url: https://github.com/DEINNAME/DEINREPO
-repo_name: DEINNAME/DEINREPO
+repo_name: Jan-Schuback/Jan-Schuback
 
 theme:
   name: material
