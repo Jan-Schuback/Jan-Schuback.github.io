@@ -1,0 +1,34 @@
+site_name: Bambusrollstuhl – Bauanleitung
+site_description: Open-Source Bauanleitung & Community-Builds
+site_url: https://DEINNAME.github.io/DEINREPO/   # bei Project Pages
+repo_url: https://github.com/DEINNAME/DEINREPO
+repo_name: DEINNAME/DEINREPO
+
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Start: index.md
+  - Sicherheit: sicherheit.md
+  - Materialliste: materialliste.md
+  - Werkzeuge: werkzeuge.md
+  - Bauanleitung: bauanleitung.md
+  - Tests & Wartung: tests-wartung.md
+  - Community Builds: community-builds.md
+  - Downloads:
+      - docs/downloads: downloads/
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
