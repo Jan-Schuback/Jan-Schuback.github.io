@@ -17,6 +17,7 @@ theme:
 nav:
   - Start: index.md
   - Anleitung: instructions.md
+  - Downloads: downloads.md
 
 markdown_extensions:
   - admonition
