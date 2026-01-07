@@ -1,0 +1,10 @@
+# Alles unter "docs/official/" darf nur von dir freigegeben werden
+docs/official/  @Jan-Schuback
+
+# Kritische Dateien immer nur du
+mkdocs.yml      @Jan-Schuback
+.github/        @Jan-Schuback
+docs/sicherheit.md @Jan-Schuback
+
+# Alles andere darf Community vorschlagen (PR), aber ohne extra Owner-Review
+# (kein Eintrag nötig)
