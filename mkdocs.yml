@@ -19,7 +19,7 @@ nav:
   - Anleitung: instructions.md
   - Downloads: downloads.md
   - Community:
-      - GitHub Discussions: https://github.com/Jan-Schuback/Jan-Schuback/discussions
+      - GitHub Discussions: https://github.com/Jan-Schuback/Jan-Schuback.github.io/discussions
 
 markdown_extensions:
   - admonition
