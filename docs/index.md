@@ -1,2 +1,0 @@
-# Bambusrollstuhl
-GitHub Pages läuft.
